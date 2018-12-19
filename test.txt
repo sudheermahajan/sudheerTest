@@ -1,1 +1,2 @@
 When i am loged into Audi PL
+And i logged out from Audi PL
