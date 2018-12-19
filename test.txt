@@ -1,5 +1,4 @@
 When i am loged into Audi PL
-<<<<<<< HEAD
 When i am loged into Audi PLtesting
 When i am loged into Audi PL12
 And i logged out from Audi PL
