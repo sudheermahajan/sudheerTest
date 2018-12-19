@@ -1,4 +1,5 @@
 When i am loged into Audi PL
 When i am loged into Audi PL12
 And i logged out from Audi PL
+And i logged out from Audi PL12
 
