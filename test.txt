@@ -2,6 +2,6 @@ When i am loged into Audi PL
 When i am loged into Audi PL12
 And i logged out from Audi PL
 And i logged out from Audi PL12
-And i logged out from Audi PL1234
+And i logged out from Audi PL12345678
 And i logged out from Audi PL5678
 
